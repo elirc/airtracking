@@ -1,2 +1,2 @@
 # airtracking
-tracking air uality near you and globally
+tracking air uality near your place and globally
